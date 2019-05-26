@@ -18,6 +18,7 @@
     <div>3</div>
     <div>+</div>
     <div>0</div>
+    <div>.</div>
     <div>=</div>
   </div>
 </template>
