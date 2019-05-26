@@ -1,34 +1,33 @@
 <template>
-  <div>
-    <p>{{msg}}</p>
+  <div class="calculadora">
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
+    <div>teste</div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Calculadora',
-  data() {
-    return {
-      msg: 'Olá! Tudo bem?!',
-    };
-  },
+
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
-  font-weight: normal;
+
+.calculadora {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(50px, auto);
 }
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
+
 </style>
