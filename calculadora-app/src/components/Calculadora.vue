@@ -33,6 +33,8 @@ export default {
 <style scoped>
 
 .calculadora {
+  margin: 0 auto;
+  width: 350px;
   font-size: 40px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
