@@ -52,4 +52,48 @@ Abaixo segue a lista de vídeos já disponíveis:
 
 * [Desenvolvimento de uma Calculadora com Vue.js - Parte IV]()**
 
+## Executar Localmente o Projeto 🔥
+
+Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
+
+## Começando... 🌀
+
+Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
+
+## Instalando as Dependências (via Windows): ❗️
+
+Abre o cmd (caso esteja utilizando o Windows) e digite a path do seu projeto
+
+```
+cd "C:\Users\NomeDoComputador\Documents\..."
+```
+
+Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: **(dentro do calculadora-app)**
+
+```
+npm install
+```
+
+Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
+
+* `node_modules` - que contêm os packages do npm que precisará para o projeto.
+
+## Instalação dos Programas via Linux: 💥
+
+Estarei disponibilizando os links onde explicam como baixar:
+
+- Node.Js: [AQUI](https://nodejs.org/en/download/package-manager/)
+- MongoDb: [AQUI](https://docs.mongodb.com/v3.0/administration/install-on-linux/)
+
+## Executando a Aplicação 💨
+
+Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
+
+```
+> npm run dev
+```
+
+## Tenho Dúvidas... O que Faço?! 🚩
+
+Caso tenha dúvidas ao código desenvolvido durante o live coding, sinta-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/live-coding-vuejs-calculadora/issues)** no repositório com a sua dúvida. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
