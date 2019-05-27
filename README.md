@@ -35,6 +35,14 @@ As fases serão divididas em 4:
 
 * Avaçando+ (Fase 4)
     - Desenvolvimento de uma Aplicação E-Commerce com Vue.js (Conceitos de Serverless)
+    
+    
+## Pré-Requisitos
+
+Para seguir com esse tutorial, se faz necessário tem alguns pré-requisitos. Entre eles saber: HTML, CSS e JavaScript. Caso não tenham, indicarei os dois cursos abaixo:
+
+- **[Criar um site simples usando HTML, CSS e JavaScript](http://bit.ly/2H2VOfS)**
+- **[Desenvolver aplicativos Web com o Visual Studio Code](http://bit.ly/2VKs6nY)**
 
 ## Vídeos da Série
 
