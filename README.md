@@ -4,7 +4,7 @@
 
 Repositório responsável pelo live coding realizado no canal **[Twitch.tv](https://www.twitch.tv/glaucia_lemos86)** 
 
-## Recursos Utilizados no Desenvolvimento da Aplicação: 🚀
+## Recursos Utilizados no Desenvolvimento da Aplicação 🚀
 
 * **[Visual Studio Code](http://bit.ly/2QoayZD)**
 * **[Node.Js](https://nodejs.org/en/)**
