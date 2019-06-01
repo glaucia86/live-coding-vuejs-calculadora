@@ -37,14 +37,14 @@ As fases serão divididas em 4:
     - Desenvolvimento de uma Aplicação E-Commerce com Vue.js (Conceitos de Serverless)
     
     
-## Pré-Requisitos
+## Pré-Requisitos 📕
 
 Para seguir com esse tutorial, se faz necessário tem alguns pré-requisitos. Entre eles saber: HTML, CSS e JavaScript. Caso não tenham, indicarei os dois cursos abaixo:
 
 - **[Criar um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/?WT.mc_id=vuejscalculadora-github-gllemos)**
 - **[Desenvolver aplicativos Web com o Visual Studio Code](https://docs.microsoft.com/pt-br/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=vuejscalculadora-github-gllemos)**
 
-## Vídeos da Série
+## Vídeos da Série 📺
 
 Toda sexta-feira ou domingo, às 22h pelo canal do **[Twitch.tv](https://www.twitch.tv/glaucia_lemos86)** e simultaneamente pelo **[Youtube](https://www.youtube.com/user/l32759)**.
 Sempre no final de cada live, estarei escrevendo um post, como desenvolver o projeto passo a passo através do site **[Medium](https://medium.com/@glaucia86)**
