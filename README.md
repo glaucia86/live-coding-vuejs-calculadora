@@ -4,18 +4,18 @@
 
 Repositório responsável pelo live coding realizado no canal **[Twitch.tv](https://www.twitch.tv/glaucia_lemos86)** 
 
-## Recursos Utilizados no Desenvolvimento da Aplicação: 🚀
+## Recursos Utilizados no Desenvolvimento da Aplicação 🚀
 
-* **[Visual Studio Code](http://bit.ly/2QoayZD)**
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuejscalculadora-github-gllemos)**
 * **[Node.Js](https://nodejs.org/en/)**
 * **[Vue](https://vuejs.org/)**
 * **[Vue CLI](https://cli.vuejs.org/)**
-* **[Azure App Service](http://bit.ly/2W3ppi4)**
+* **[Azure App Service](https://azure.microsoft.com/pt-br/services/app-service/?WT.mc_id=vuejscalculadora-github-gllemos)**
 * **[Extensões Vue.js Usadas no Projeto]**
-    - **[Vue 2 Snippets:](http://bit.ly/2JHy6rM)**
-    - **[Vetur](http://bit.ly/2XaGLX4)**
-    - **[Vue](http://bit.ly/2VOA2QR)**
-    - **[Vue VSCode Snippets](http://bit.ly/2VSlYGf)**
+    - **[Vue 2 Snippets:](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets&WT.mc_id=vuejscalculadora-github-gllemos)**
+    - **[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur&WT.mc_id=vuejscalculadora-github-gllemos)**
+    - **[Vue](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue&WT.mc_id=vuejscalculadora-github-gllemos)**
+    - **[Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets&WT.mc_id=vuejscalculadora-github-gllemos)**
 
 ## O que eu vou Aprender?! 📘
 
@@ -35,8 +35,16 @@ As fases serão divididas em 4:
 
 * Avaçando+ (Fase 4)
     - Desenvolvimento de uma Aplicação E-Commerce com Vue.js (Conceitos de Serverless)
+    
+    
+## Pré-Requisitos 📕
 
-## Vídeos da Série
+Para seguir com esse tutorial, se faz necessário tem alguns pré-requisitos. Entre eles saber: HTML, CSS e JavaScript. Caso não tenham, indicarei os dois cursos abaixo:
+
+- **[Criar um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/?WT.mc_id=vuejscalculadora-github-gllemos)**
+- **[Desenvolver aplicativos Web com o Visual Studio Code](https://docs.microsoft.com/pt-br/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=vuejscalculadora-github-gllemos)**
+
+## Vídeos da Série 📺
 
 Toda sexta-feira ou domingo, às 22h pelo canal do **[Twitch.tv](https://www.twitch.tv/glaucia_lemos86)** e simultaneamente pelo **[Youtube](https://www.youtube.com/user/l32759)**.
 Sempre no final de cada live, estarei escrevendo um post, como desenvolver o projeto passo a passo através do site **[Medium](https://medium.com/@glaucia86)**
