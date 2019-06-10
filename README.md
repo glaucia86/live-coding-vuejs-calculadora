@@ -86,13 +86,6 @@ Ao digitar a instrução acima, automaticamente ele irá baixar todas as depend�
 
 * `node_modules` - que contêm os packages do npm que precisará para o projeto.
 
-## Instalação dos Programas via Linux: 💥
-
-Estarei disponibilizando os links onde explicam como baixar:
-
-- Node.Js: [AQUI](https://nodejs.org/en/download/package-manager/)
-- MongoDb: [AQUI](https://docs.mongodb.com/v3.0/administration/install-on-linux/)
-
 ## Executando a Aplicação 💨
 
 Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
