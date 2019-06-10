@@ -43,14 +43,14 @@ Sempre no final de cada live, estarei escrevendo um post, como desenvolver o pro
 
 Abaixo segue a lista de vídeos já disponíveis:
 
-* [Desenvolvimento de uma Calculadora com Vue.js - Parte I](https://youtu.be/oEPVTnjIB_8)**
+* **[Desenvolvimento de uma Calculadora com Vue.js - Parte I](https://youtu.be/oEPVTnjIB_8)**
 
 **(Em Desenvolvimento)**
-* [Desenvolvimento de uma Calculadora com Vue.js - Parte II]()**
+* **[Desenvolvimento de uma Calculadora com Vue.js - Parte II]()**
 
-* [Desenvolvimento de uma Calculadora com Vue.js - Parte III]()**
+* **[Desenvolvimento de uma Calculadora com Vue.js - Parte III]()**
 
-* [Desenvolvimento de uma Calculadora com Vue.js - Parte IV]()**
+* **[Desenvolvimento de uma Calculadora com Vue.js - Parte IV]()**
 
 ## Executar Localmente o Projeto 🔥
 
