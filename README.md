@@ -54,7 +54,7 @@ Abaixo segue a lista de vídeos já disponíveis:
 * **[Desenvolvimento de uma Calculadora com Vue.js - Parte I](https://youtu.be/oEPVTnjIB_8)**
 
 **(Em Desenvolvimento)**
-* **[Desenvolvimento de uma Calculadora com Vue.js - Parte II]()**
+* **[Desenvolvimento de uma Calculadora com Vue.js - Parte II](https://youtu.be/UgK7vt70rN4)**
 
 * **[Desenvolvimento de uma Calculadora com Vue.js - Parte III]()**
 
