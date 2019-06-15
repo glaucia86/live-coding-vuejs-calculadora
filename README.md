@@ -94,7 +94,11 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 > npm run dev
 ```
 
+## Links & Recursos Importantes
+
+
 ## Tenho Dúvidas... O que Faço?! 🚩
 
 Caso tenha dúvidas ao código desenvolvido durante o live coding, sinta-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/live-coding-vuejs-calculadora/issues)** no repositório com a sua dúvida. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
+**(documentação em desenvolvimento)**
